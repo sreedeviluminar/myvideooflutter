@@ -44,7 +44,7 @@ class HomeScreen extends StatelessWidget {
           ),
           VideoItems(
             videoPlayerController: VideoPlayerController.network(
-                "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4"
+                "https://lived2.lyricslive24.com/mp4regular/play/Q3ViT3NmVmNtN25hK21GR3J3eHJSZz09/-malayalam-comedy-status-video-Malayalam-whatsapp-status-.mp4"
             ),
             looping: true,
             autoplay: false,
